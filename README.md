@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">A passionate computer engineering student from France</h3>
 
-- 🔭 I’m currently working on **IoT projects under Home Assistant**
+- 🔭 I’m currently working on **IoT projects under Home Assistant**.
 
-- 🌱 I’m currently learning **SwiftUI & AWS Cloud Services**
+- 🌱 I’m currently learning **SwiftUI & AWS Cloud Services**.
 
-- 👯 I’m looking to collaborate on **some Unity games**
+- 👯 I’m looking to collaborate on **some Unity games** to have some fun !
 
-- 📫 How to reach me **mohamed.tahiri@etu.utc.fr**
+- 📫 Reach me via [my LinkedIn](https://linkedin.com/in/moha-tah) !
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
