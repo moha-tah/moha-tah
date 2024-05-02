@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **SwiftUI & AWS Cloud Services**.
 
-- 👯 I’m looking to collaborate on **some Unity games** to have some fun !
-
 - 📫 Reach me via [my LinkedIn](https://linkedin.com/in/moha-tah) !
 
 <picture>
