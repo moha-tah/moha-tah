@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **IoT projects under Home Assistant**.
 
-- 🌱 I’m currently learning **SwiftUI & AWS Cloud Services**.
+- 🌱 I’m currently learning **Next.js and Nest.js**.
 
 - 📫 Reach me via [my LinkedIn](https://linkedin.com/in/moha-tah) !
 
