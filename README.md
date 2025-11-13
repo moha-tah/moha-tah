@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed!</h1>
 <h3 align="center">A passionate software engineer student from Paris, France.</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/moha-tah/portfolio) and a private project that will be revealed very soon.
+- 🔭 I’m currently working on Deep Learning with PyTorch, you can find my last Gist about it [here](https://gist.github.com/moha-tah/61dd18e1d0d6da829f966899818aa9f7).
 
 - 🌱 I’m currently learning **more about DevOps and Cybersecurity**.
 
